@@ -1,0 +1,15 @@
+#Welcome to the Internal Help Menu!#
+##
+#Contents:#
+#1) Portfolio Menu#
+#2) External Help Menu#
+##
+#1) Portfolio Menu:#
+##
+#The Portfolio menu gives the user acces to their user information menu, health menu and their rewards menu.#
+#To access this menu click on the Portfolio menu button which will take you to the portfolio menu where there are three options. To access the user information menu click on the User button. To access the health menu click on the health button. To access the rewards menu click on the rewards button.#
+##
+#2) External Help Menu:#
+##
+#The External help menu is designed to give the user access to online help regarding medical queries or medical information. It also gives the user access to emergency medical information.#
+#To access this menu click on the help menu button in the main menu, then click on the external help menu button which will take you to this menu.#	
