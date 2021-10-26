@@ -1,6 +1,0 @@
-#Author: Gilliam Van Der Merwe#
-#Programming Language: Java & Microsoft Access SQL#
-#Database:FushiTheMedicalAidApp.accdb#
-##
-#The purpose for this aplication is to provide our users with the best possible access to our resources and their medical information.#
-
